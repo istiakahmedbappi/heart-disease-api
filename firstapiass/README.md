@@ -4,7 +4,7 @@ A small FastAPI app that serves predictions from a Random Forest classifier trai
 [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 The app is Dockerized and deployed on Render.
 
-**Live URL:** https://YOUR-APP-NAME.onrender.com/docs
+**Live URL:** https://heart-disease-api-fm5c.onrender.com/docs
 
 ## Project structure
 
